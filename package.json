@@ -1,0 +1,9 @@
+{
+  "name": "pet-api",
+  "version": "0.0.0",
+  "description": "pet-api",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
